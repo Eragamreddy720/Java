@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class voter1729{
+public class voterR1729{
     public static void main(String args[]){
         Scanner input = new Scanner (System.in);
         System.out.print("Enter the age : ");
